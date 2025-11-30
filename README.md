@@ -41,7 +41,7 @@
   <li>🧮 <strong>OOP Concepts</strong> — Classes, objects, methods, encapsulation</li>
 </ul>
 
-<h2>🖼️ Screenshots (Text Examples)</h2>
+<h2>Text Examples</h2>
 
 <h3>📷 Main Menu</h3>
 <pre>
